@@ -1,0 +1,41 @@
+.hero-section {
+    background: url('home.jpg') no-repeat center center;
+    background-size: cover;
+    color: #1b263b; 
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content:flex-start;
+   padding-left: 50px;
+}
+
+h1, p {
+    color: #1b263b; 
+  }
+
+.featured-vehicles {
+    h2 {
+      color: #1b263b;  
+    }
+  
+.card-title, .card-text {
+      color: #1b263b;  
+    }
+  
+.card {
+      transition: transform 0.3s ease;
+  
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  
+.card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}

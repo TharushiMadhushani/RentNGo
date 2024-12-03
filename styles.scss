@@ -1,0 +1,26 @@
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$bg-light-color: #f8f9fa;
+
+.hero-section {
+    background: url('home.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.service-box {
+    padding: 20px;
+    background-color: $bg-light-color;
+    border-radius: 5px;
+    margin: 10px 0;
+    transition: transform 0.3s ease-in-out;
+
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+footer {
+    background-color: $secondary-color;
+    color: #fff;
+}
