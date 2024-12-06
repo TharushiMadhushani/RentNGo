@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="Scooter.jpg" class="card-img-top" alt="Scooter">
+                        <img src="images/Scooter.jpg" class="card-img-top" alt="Scooter">
                         <div class="card-body">
                             <h5 class="card-title">Scooter</h5>
                             <p>From Rs. 100/day</p>
