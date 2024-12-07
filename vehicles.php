@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vehicles - RentNGo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
 
@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="Scooter.jpg" class="card-img-top" alt="Scooter">
+                        <img src="images/Scooter.jpg" class="card-img-top" alt="Scooter">
                         <div class="card-body">
                             <h5 class="card-title">Scooter</h5>
                             <p>From Rs. 100/day</p>
