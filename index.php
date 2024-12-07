@@ -13,7 +13,7 @@
     <?php include 'navbar.php'; ?>
 
     <!-- Hero Section -->
-    <section class="hero-section text-left py-5" style="background: url('home.jpg') no-repeat center center; background-size: cover;">
+    <section class="hero-section text-left py-5" style="background: url('images/home.jpg') no-repeat center center; background-size: cover;">
         <div class="container text-light">
             <h1>Find Your Perfect Ride with RentNGo</h1>
             <p class="lead">Rent cars, scooters, vans, and more. Simple. Affordable. Convenient.</p>
@@ -29,7 +29,7 @@
                 <!-- Car/Van -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="car_van.jpeg" class="card-img-top" alt="Car/Van">
+                        <img src="images/car_van.jpeg" class="card-img-top" alt="Car/Van">
                         <div class="card-body">
                             <h5 class="card-title">Car/Van</h5>
                             <p>From Rs. 200/day</p>
@@ -40,7 +40,7 @@
                 <!-- Scooter -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="Scooter.jpg" class="card-img-top" alt="Scooter">
+                        <img src="images/Scooter.jpg" class="card-img-top" alt="Scooter">
                         <div class="card-body">
                             <h5 class="card-title">Scooter</h5>
                             <p>From Rs. 100/day</p>
@@ -51,7 +51,7 @@
                 <!-- Pickup Truck -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="truck.jpeg" class="card-img-top" alt="Pickup Truck">
+                        <img src="images/truck.jpeg" class="card-img-top" alt="Pickup Truck">
                         <div class="card-body">
                             <h5 class="card-title">Pickup Truck</h5>
                             <p>From Rs. 300/day</p>
