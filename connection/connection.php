@@ -1,5 +1,5 @@
 <?php
-    $hostname = "172.0.0.1:3306";
+    $hostname = "127.0.0.1";
     $username = "root";
     $password = "mariadb";
     $dbname = "RentNGo";
