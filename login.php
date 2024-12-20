@@ -36,7 +36,7 @@
     <section class="py-5">
         <div class="container">
             <h2 class="text-center mb-4">Login</h2>
-            <form action="authenticate.php" method="POST" class="w-50 mx-auto">
+            <form action="index.php" method="POST" class="w-50 mx-auto">
                 <div class="mb-3">
                     <label for="username" class="form-label">Username</label>
                     <input type="text" class="form-control" id="username" name="username" required>
