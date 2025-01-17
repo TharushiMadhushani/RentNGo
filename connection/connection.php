@@ -4,5 +4,11 @@
     $password = "mariadb";
     $dbname = "RentNGo";
 
-    $connection = mysqli_connect($hostname,$username,$password,$dbname);
+   // Create connection
+$connection = new mysqli($servername, $username, $password, $database);
+
+// Check connection
+if ($connection->connect_error) {
+    die("Connection failed: " . $connection->connect_error);
+}
 ?>
