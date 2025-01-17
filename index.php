@@ -12,7 +12,7 @@
     <!-- Navigation Bar -->
     <?php include 'navbar.php'; ?>
 
-    <!-- Hero Section -->
+    <!-- Section -->
     <section class="hero-section text-left py-5" style="background: url('images/home.jpg') no-repeat center center; background-size: cover;">
         <div class="container text-light">
             <h1>Find Your Perfect Ride with RentNGo</h1>
